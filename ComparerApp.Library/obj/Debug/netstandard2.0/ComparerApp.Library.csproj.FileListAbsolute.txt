@@ -1,0 +1,4 @@
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netstandard2.0\ComparerApp.Library.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netstandard2.0\ComparerApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netstandard2.0\ComparerApp.Library.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netstandard2.0\ComparerApp.Library.AssemblyInfo.cs

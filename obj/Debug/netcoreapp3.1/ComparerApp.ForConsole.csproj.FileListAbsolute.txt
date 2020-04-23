@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.exe
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.deps.json
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.runtimeconfig.json
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.dll
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.ForConsole.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.dll
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\obj\Debug\netcoreapp3.1\ComparerApp.ForConsole.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.LibrarySnd.dll
+C:\Users\Пользователь\source\repos\ComparerApp\bin\Debug\netcoreapp3.1\ComparerApp.LibrarySnd.pdb

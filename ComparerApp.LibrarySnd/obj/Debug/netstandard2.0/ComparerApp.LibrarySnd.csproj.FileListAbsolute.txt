@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\bin\Debug\netstandard2.0\ComparerApp.LibrarySnd.deps.json
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\bin\Debug\netstandard2.0\ComparerApp.LibrarySnd.dll
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\bin\Debug\netstandard2.0\ComparerApp.LibrarySnd.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.dll
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.LibrarySnd\obj\Debug\netstandard2.0\ComparerApp.LibrarySnd.pdb

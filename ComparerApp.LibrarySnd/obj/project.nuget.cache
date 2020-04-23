@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5Yg4Y5db1HqnDqmwb5eKC/sVfimXcJrubQ7TXenCtslKiI63C3a5H4iD0ytBK2s0nP4PD/J7XJOSIqwjJb8eQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Пользователь\\source\\repos\\ComparerApp\\ComparerApp.LibrarySnd\\ComparerApp.LibrarySnd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Пользователь\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

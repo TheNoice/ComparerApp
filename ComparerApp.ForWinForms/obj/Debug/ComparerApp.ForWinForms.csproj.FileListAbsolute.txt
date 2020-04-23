@@ -1,0 +1,13 @@
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\bin\Debug\ComparerApp.ForWinForms.exe.config
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\bin\Debug\ComparerApp.ForWinForms.exe
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\bin\Debug\ComparerApp.ForWinForms.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.Form1.resources
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.exe
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\bin\Debug\ComparerApp.LibrarySnd.dll
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\bin\Debug\ComparerApp.LibrarySnd.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.ForWinForms\obj\Debug\ComparerApp.ForWinForms.csproj.CopyComplete

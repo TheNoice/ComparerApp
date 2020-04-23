@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ComparerApp.ForWinForms\**" />
+    <Compile Remove="ComparerApp.LibrarySnd\**" />
+    <Compile Remove="ComparerApp.Library\**" />
+    <EmbeddedResource Remove="ComparerApp.ForWinForms\**" />
+    <EmbeddedResource Remove="ComparerApp.LibrarySnd\**" />
+    <EmbeddedResource Remove="ComparerApp.Library\**" />
+    <None Remove="ComparerApp.ForWinForms\**" />
+    <None Remove="ComparerApp.LibrarySnd\**" />
+    <None Remove="ComparerApp.Library\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="ComparerApp.LibrarySnd\ComparerApp.LibrarySnd.csproj" />
+  </ItemGroup>
+
+</Project>

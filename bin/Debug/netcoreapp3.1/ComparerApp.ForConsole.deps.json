@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ComparerApp.ForConsole/1.0.0": {
+        "dependencies": {
+          "ComparerApp.LibrarySnd": "1.0.0"
+        },
+        "runtime": {
+          "ComparerApp.ForConsole.dll": {}
+        }
+      },
+      "ComparerApp.LibrarySnd/1.0.0": {
+        "runtime": {
+          "ComparerApp.LibrarySnd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComparerApp.ForConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComparerApp.LibrarySnd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

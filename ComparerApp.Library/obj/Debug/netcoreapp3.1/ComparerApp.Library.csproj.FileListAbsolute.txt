@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\bin\Debug\netcoreapp3.1\ComparerApp.Library.deps.json
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\bin\Debug\netcoreapp3.1\ComparerApp.Library.dll
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\bin\Debug\netcoreapp3.1\ComparerApp.Library.pdb
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.dll
+C:\Users\Пользователь\source\repos\ComparerApp\ComparerApp.Library\obj\Debug\netcoreapp3.1\ComparerApp.Library.pdb
